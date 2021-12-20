@@ -59,6 +59,8 @@ All boxes automatically have an expiry date of the same day they were created on
 
 #### Once user is logged in, they can reserve a box and receive a success modal and an email with the detailes of the order.
 
+![User Purchase](demo/success.gif)
+
 <img align="center" alt="delifood.com" src="/demo/success.png" />
 
 #### User can navigate to their DeliFood minimal profile where they can filter all, active or non-active orders, as well as change their user info.
