@@ -98,7 +98,7 @@ We want keep expanding our project and leave a bigger impact in the fight agains
 
 - [X] Add integrated check out
 - [X] Add more businesses to our platform, such as grocery stores 
-- [X] Add more customer support with WebSickets
+- [X] Add more customer support with WebSockets
 
 #### Thank you for exploring DeliFood!
 
