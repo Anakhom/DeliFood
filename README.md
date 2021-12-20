@@ -36,7 +36,8 @@ All boxes automatically have an expiry date of the same day they were created on
 
 #### Welcome to the boxes page. DeliFood automatically gets user's location (with permission, of course) and displays all unfiltered boxes near the user.
 #### All boxes can be fileterd by cuisine, price, distance, or name.
-<img align="center" alt="delifood.com" src="/demo/boxes.png" />
+
+![Boxes Filter](demo/boxes.gif)
 
 #### The user can, of course, change their current location at any time.
 <img align="center" alt="delifood.com" src="/demo/location.png" />
@@ -61,8 +62,6 @@ All boxes automatically have an expiry date of the same day they were created on
 
 ![User Purchase](demo/success.gif)
 
-<img align="center" alt="delifood.com" src="/demo/success.png" />
-
 #### User can navigate to their DeliFood minimal profile where they can filter all, active or non-active orders, as well as change their user info.
 
 <img align="center" alt="delifood.com" src="/demo/userProfile.png" />
@@ -81,7 +80,7 @@ All boxes automatically have an expiry date of the same day they were created on
 
 #### Restaurant can view active, picked up, or expired boxes. It can see how many boxes were reserved and delete any box at any time (however, reserved boxes cannot be deleted!)
 
-<img align="center" alt="delifood.com" src="/demo/RestBoxes.png" />
+![CRM Boxes](demo/RestBoxes.gif)
 
 #### Restaurant can (and should 😉) create a new box if they feel like they have some delicious food left at the end of the day.
 
