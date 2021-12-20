@@ -4,7 +4,7 @@ Welcome to 🌱 DeliFood, an app that tackles the saddest waste problem - food w
 DeliFood offers a solution to restaurants that no longer wish to thow away great food at the end of the day. 
 The app is designed to help business owners sell amazing food for less and help food lovers find their favourites near them.
 
-[<img align="center" alt="delifood.com" src="/images/home.png" />](https://mycupofit.herokuapp.com)
+[<img align="center" alt="delifood.com" src="/demo/home.png" />](https://mycupofit.herokuapp.com)
 
 
 DeliFood is our small contirbution to the fight against food waste and we would love to show you everything it can do.
@@ -36,38 +36,38 @@ All boxes automatically have an expiry date of the same day they were created on
 
 #### Welcome to the boxes page. DeliFood automatically gets user's location (with permission, of course) and displays all unfiltered boxes near the user.
 #### All boxes can be fileterd by cuisine, price, distance, or name.
-<img align="center" alt="delifood.com" src="/images/boxes.png" />
+<img align="center" alt="delifood.com" src="/demo/boxes.png" />
 
 #### The user can, of course, change their current location at any time.
-<img align="center" alt="delifood.com" src="/images/location.png" />
+<img align="center" alt="delifood.com" src="/demo/location.png" />
 
 ## Let's Talk Boxes
 
 #### Boxes have all the essential info, which is set by the restaurant when adding a new box. User can see the distance, the pick-up time, the price, and the amount of similar boxes they can purchase.
 
-<img align="center" alt="delifood.com" src="/images/detailBoxes.png" />
+<img align="center" alt="delifood.com" src="/demo/detailBoxes.png" />
 
 #### User can view more detailed info about any given box, but they won't be able to reserve the box until they sign up. 
 
-<img align="center" alt="delifood.com" src="/images/boxModal.png" />
+<img align="center" alt="delifood.com" src="/demo/boxModal.png" />
 
 #### Of course, all boxes can be shown right on the map as well. 
 
-<img align="center" alt="delifood.com" src="/images/map.png" />
+<img align="center" alt="delifood.com" src="/demo/map.png" />
 
 ## Let's Talk Orders
 
 #### Once user is logged in, they can reserve a box and receive a success modal and an email with the detailes of the order.
 
-<img align="center" alt="delifood.com" src="/images/success.png" />
+<img align="center" alt="delifood.com" src="/demo/success.png" />
 
 #### User can navigate to their DeliFood minimal profile where they can filter all, active or non-active orders, as well as change their user info.
 
-<img align="center" alt="delifood.com" src="/images/userProfile.png" />
+<img align="center" alt="delifood.com" src="/demo/userProfile.png" />
 
 #### Orders contain all the neccessary info, such as the restaurant's location and contact number, unique code, status, and the option to cancel the order.
 
-<img align="center" alt="delifood.com" src="/images/orders.png" />
+<img align="center" alt="delifood.com" src="/demo/orders.png" />
 
 #### Now it is time to go and pick up the deliciousness!
 
@@ -75,19 +75,19 @@ All boxes automatically have an expiry date of the same day they were created on
 
 #### Welcome to restaurant's minimal (we like minimal design here) profile, which can be, of course, updated.
 
-<img align="center" alt="delifood.com" src="/images/RestaurantProfile.png" />
+<img align="center" alt="delifood.com" src="/demo/RestaurantProfile.png" />
 
 #### Restaurant can view active, picked up, or expired boxes. It can see how many boxes were reserved and delete any box at any time (however, reserved boxes cannot be deleted!)
 
-<img align="center" alt="delifood.com" src="/images/RestBoxes.png" />
+<img align="center" alt="delifood.com" src="/demo/RestBoxes.png" />
 
 #### Restaurant can (and should 😉) create a new box if they feel like they have some delicious food left at the end of the day.
 
-<img align="center" alt="delifood.com" src="/images/NewBox.png" />
+<img align="center" alt="delifood.com" src="/demo/NewBox.png" />
 
 #### Restaurant can also view any active, picked up or expired orders once a hungry user reserves a box. An email is also sent to the restaurant notifying of a new order, which contains all the usefull info. 
 
-<img align="center" alt="delifood.com" src="/images/RestOrders.png" />
+<img align="center" alt="delifood.com" src="/demo/RestOrders.png" />
 
 #### Once the customer paid and took a mystery box home, the order can be market as picked up and the rest is history.
 
